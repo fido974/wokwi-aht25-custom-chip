@@ -1,0 +1,17 @@
+{
+  "name": "AHT25",
+  "author": "Fred HOARAU",
+  "pins": [
+    "INT",
+    "SCL",
+    "SDA",
+    "GND",
+    "VCC",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "controls": []
+}

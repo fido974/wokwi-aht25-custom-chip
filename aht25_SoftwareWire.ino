@@ -1,6 +1,8 @@
-// Stress test for SoftwareWire library.
+// Test for SoftwareWire library.
 // Tested with an Arduino Uno connected to an Arduino Uno.
 // This is the sketch for the Master Arduino using the software i2c.
+//
+// Fred HOARAU - march 2025
 
 // Use define to switch between the Arduino Wire and the SoftwareWire.
 #define TEST_SOFTWAREWIRE
